@@ -1,3 +1,24 @@
+## Github-app
+
+React application integrates with the GitHub API to display information about GitHub users and their projects. The application consists of two main pages:
+
+User Page: On this page, users can search for a GitHub username. After entering a username, the user's profile is displayed, including their avatar, name, number of repositories, followers, and other basic information.
+
+Projects Page: After selecting a specific user, the user is redirected to a page displaying all repositories of that GitHub user. For each repository, the application shows the repository name, description, number of stars, and forks.
+
+Key features of the application:
+
+Interactive GitHub user search.
+Dynamic loading and display of user data.
+Displaying a list of repositories with key information about each project.
+This application allows users to quickly find information about GitHub users and their projects, providing a convenient and intuitive interface.
+
+Hero page
+![Hero page](https://github.com/Nikolay0803/github-app/blob/master/src/project-photo/906shots_so.png)
+
+Main page
+![Main page](https://github.com/Nikolay0803/github-app/blob/master/src/project-photo/413shots_so.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
